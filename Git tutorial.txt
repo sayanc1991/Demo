@@ -1,1 +1,6 @@
 // Comments........
+Welcome to Git. 
+Git is fun to learn.
+Git is open source
+This tutorial explains how to use Git for project version control in a distributed environment while working on web-based and non web-based applications development.
+This tutorial will help beginners learn the basic functionality of Git version control system.
