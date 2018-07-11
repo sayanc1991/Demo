@@ -8,7 +8,7 @@ The world's leading software development platform
 
 Feel free to access  [our website](https://github.com/).
 
-> ## Github
+> ## Github1
 >
 > A web-based hosting service for version control using Git.
  
